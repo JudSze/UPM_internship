@@ -1,7 +1,7 @@
 library(readxl)
 library(factoextra)
 
-expression = read.csv("C:/Coselens/mouse/mouse_eso_research/covariance_table/covariance_table.csv", sep = ";", header = TRUE)
+expression = read.csv("expression_table.csv", sep = ";", header = TRUE)
 row.names(expression) = expression$Gene_name
 expression$Gene_name = NULL
 t_expression = t(expression)
@@ -17,7 +17,7 @@ write.csv(pca_matrice, "pca_matrice.csv")
 pca$x
 
 getwd()
-setwd("C:/Coselens/mouse/mouse_eso_research/covariance_table")
+setwd("your_path")
 saveRDS(pca, "mean_expression_pca.rds")
 head(pca, 2)
 
@@ -45,9 +45,9 @@ res.pca <- PCA(res.comp$completeObs, ncp = 15 ,graph=TRUE)
 head(res.pca$ind$coord) #scores (principal components)
 head(res.pca$svd)
 
-setwd("C:/Coselens/mouse/finalized_results/covariance_tables")
-write.csv(res.pca$ind$coord, "15_PCA_cov_table.csv")
-write.csv(res.pca$ind$contrib, "15_PCA_contrib_table.csv")
+setwd("your_path")
+write.csv(res.pca$ind$coord, "cov_table.csv")
+write.csv(res.pca$ind$contrib, "contrib_table.csv")
 
 fviz_contrib(res.pca, choice = "var", axes = 5, top = 10)
 
