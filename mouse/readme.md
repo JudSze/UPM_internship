@@ -22,3 +22,28 @@ Normal 10 days tissue, tumorous 10 days tissue, and tumorous 1 year tissue from 
 * The following R libraries, and functions were used
   * factoextra, missMDA, FactoMineR
 
+### Description of datasets (accessible on the cluster)
+* 41586_2021_3965_MOESM4_ESM.xlsx
+  * 10 days normal tissue, 10 days tumorous tissue, 1 year tumorous tissue of post DEN-treated mouses (targeted sequencing)
+  * 9 months and 18 month neoplasm tissue of post DEN-treated mouse (whole genome sequencing)
+  * dndscv input tables (the same that can be used for Coselens)
+  * results of dndscv for each table
+  * HGFP intensity data
+  ```diff
+  + Targeted_seq_normal_10d_postDEN_mice_EE.xlsx
+  ```
+    * targeted sequencing data of 10 days post DEN-treated normal mouse tissue
+  ```diff  
+  + Targeted_seq_isolated_tumors_10d_postDEN_mouse_EE.xlsx
+  ```
+    * targeted sequencing data of 10 days post DEN-treated tumorous mouse tissue
+  ```diff
+  + Targeted_seq_isolated_tumors_1y_postDEN_mouse_EE.xlsx
+  ```
+    * targeted sequencing data of 1 year post DEN-treated tumorous mouse tissue
+  ```diff
+  + WES_results_9m_and_18_m_postDEN_tumors.xlsx
+  ```
+    * whole genome sequencing data of post DEN-treated mouse neoplasms
+* 41586_2021_3965_MOESM18_ESM.xlsx
+  * supplementary file of experimental data
