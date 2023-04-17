@@ -53,3 +53,17 @@ Normal 10 days tissue, tumorous 10 days tissue, and tumorous 1 year tissue from 
   + EMS114216_control_test.xlsx
   ```
     * it contains targeted sequencing data of normal and tumorous tissue of DEN-treated mouses  
+
+### Description of RefCDS object
+```diff
+! GCF_000001635.26_GRCm38.p6_genomic.fna
+```
+   * reference genome assemply
+```diff
+- mart_export_GRcm38.p6.txt
+```
+   * txt file retrieved through biomart
+ * mouse_GRCm38.p6.rda
+   * RefCDS object created with dndscv::buildref function, from the biomart txt file, and the reference genome assembly
+
+### Description of covariates matrice 
