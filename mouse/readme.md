@@ -66,4 +66,8 @@ Normal 10 days tissue, tumorous 10 days tissue, and tumorous 1 year tissue from 
  * mouse_GRCm38.p6.rda
    * RefCDS object created with dndscv::buildref function, from the biomart txt file, and the reference genome assembly
 
-### Description of covariates matrice 
+### Description of covariates matrice
+* first step was excluding the knockout samples from the expression data
+* after annotation of probes, and taking the mean of probes mapped to the same gene, the mean expression matrice was used
+* missing values (whole rows for genes that were present in the RefCDS object, but not in the expression data) were computed with missMDA::imputePCA
+* based on eigenvalues 5 PCA were selected from 15 variables, and saved in csv format
