@@ -55,3 +55,26 @@
   Synm          | Unclassified
   Trp53         | Strict dependence
   Trrap         | Unclassified
+  
+10 days normal  VS 1 year tumor
+------------------------------------
+  Gene          | Dependence
+--------------- | ------------------
+Akt2            | Strict inhibition
+Atp2a2          | Strict inhibition
+Cdc16           | Strict inhibition
+Crebbp          | Strict inhibition
+Fat1            | Unclassified
+Kmt2c           | Unclassified
+Lrp1            | Strict inhibition
+Met             | Strict inhibition
+Mtor            | Strict inhibition
+Notch1          | Inhibition
+Notch2          | Strict inhibition
+Notch4          | Strict inhibition
+Nsd1            | Unclassified
+Peg10           | Strict inhibition
+Rasa1           | Unclassified
+Sox2            | Strict inhibition
+Trp53           | Strict dependence
+Wnk1            | Unclassified
