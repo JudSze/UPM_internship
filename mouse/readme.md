@@ -55,6 +55,7 @@ Normal 10 days tissue, tumorous 10 days tissue, and tumorous 1 year tissue from 
     * it contains targeted sequencing data of normal and tumorous tissue of DEN-treated mouses  
 
 ### Description of RefCDS object
+* there can be Windows-specific problems that arose, therefore it is worth running buildref in Linux environment
 ```diff
 ! GCF_000001635.26_GRCm38.p6_genomic.fna
 ```
@@ -67,6 +68,7 @@ Normal 10 days tissue, tumorous 10 days tissue, and tumorous 1 year tissue from 
    * RefCDS object created with dndscv::buildref function, from the biomart txt file, and the reference genome assembly
 
 ### Description of covariates matrice
+* if you are following the tutorial, there can be Windows-specific problems that arose, therefore it is worth running buildref in Linux environment
 * first step was excluding the knockout samples from the expression data
 * after annotation of probes, and taking the mean of probes mapped to the same gene, the mean expression matrice was used
 * missing values (whole rows for genes that were present in the RefCDS object, but not in the expression data) were computed with missMDA::imputePCA
