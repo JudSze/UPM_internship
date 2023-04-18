@@ -58,7 +58,6 @@
 ------------------------------------
   Gene          | Dependence
 --------------- | ------------------
-Akt2            | Strict inhibition
 Atp2a2          | Strict inhibition
 Cdc16           | Strict inhibition
 Crebbp          | Strict inhibition
@@ -76,3 +75,63 @@ Rasa1           | Unclassified
 Sox2            | Strict inhibition
 Trp53           | Strict dependence
 Wnk1            | Unclassified
+
+10 days normal  VS 1 year normal
+------------------------------------
+  Gene          | Dependence
+--------------- | ------------------
+Adam10          | Strict inhibition
+Akt1            | Unclassified
+Arid2           | Strict inhibition
+Braf            | Strict inhibition
+Cdh1            | Unclassified
+Dnmt3a          | Unclassified
+Hydin           | Unclassified
+Lrp1b           | Strict inhibition
+Myof            | Strict inhibition
+Notch1          | Inhibition
+Notch2          | Strict inhibition
+Trrap           | Unclassified
+
+10 days tumor  VS 1 year normal
+------------------------------------
+  Gene          | Dependence
+--------------- | ------------------
+Adam10          | Strict inhibition
+Arid1a          | Strict inhibition
+Arid2           | Strict inhibition
+Card11          | Strict inhibition
+Cnot1           | Unclassified
+Cobll1          | Unclassified
+Ctcf            | Unclassified
+Cul3            | Strict inhibition
+Dclre1a         | Unclassified
+Dmxl2           | Unclassified
+Dnm2            | Unclassified
+Ep300           | Unclassified
+Fat1            | Unclassified
+Fat4            | Strict inhibition
+Fbxw7           | Unclassified
+Hydin           | Unclassified
+Kdm6a           | Unclassified
+Kmt2c           | Unclassified
+Lrp1b           | Strict inhibition
+Myof            | Strict inhibition
+Nf1             | Strict inhibition
+Nfkb1           | Unclassified
+Notch1          | Inhibition
+Notch2          | Strict inhibition
+Nras            | Strict inhibition
+Pik3ca          | Unclassified
+Pkhd1           | Unclassified
+Ptch1           | Unclassified
+Rbm46           | Unclassified
+Ripk4           | Strict inhibition
+Scn10a          | Unclassified
+Scn11a          | Unclassified
+Scn3a           | Strict inhibition
+Setd2           | Unclassified
+Spen            | Unclassified
+Sufu            | Unclassified
+Zan             | Strict inhibition
+
