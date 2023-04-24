@@ -1,0 +1,120 @@
+ATR has unclassified with MUC17
+AXIN2 has unclassified with MUC17
+BLM has strict inhibition with KDM5C
+BMPR1A has unclassified with BRCA2
+BMPR1A has unclassified with MSH6
+BRIP1 has unclassified with PLSCR1
+BRIP1 has unclassified with XIRP2
+CBL has strict inhibition with PIM1
+CDH1 has strict inhibition with IGLL5
+CDH1 has strict inhibition with SOCS1
+CDKN1B has unclassified with CACNA1D
+CHEK2 has strict inhibition with AMER1
+CHEK2 has strict inhibition with SETBP1
+DROSHA has inhibition with APC
+DROSHA has facilitation with BRAF
+DROSHA has strict dependence with CDKN2A.p14arf
+DROSHA has facilitation with CDKN2A.p16INK4a
+DROSHA has strict inhibition with CTCF
+DROSHA has inhibition with CTNNB1
+DROSHA has inhibition with FBXW7
+DROSHA has unclassified with FLG2
+DROSHA has strict dependence with HRAS
+DROSHA has facilitation with IDH1
+DROSHA has strict inhibition with MAGEA1
+DROSHA has unclassified with MXRA5
+DROSHA has inhibition with PIK3CA
+DROSHA has strict inhibition with PIK3R1
+DROSHA has strict inhibition with PIM1
+DROSHA has strict inhibition with PPP2R1A
+DROSHA has inhibition with PTEN
+DROSHA has unclassified with TGIF1
+ERCC3 has strict inhibition with ITGB7
+EXT2 has strict inhibition with XIRP2
+FANCD2 has facilitation with ARID1A
+FANCD2 has strict inhibition with NCOR1
+FANCI has strict inhibition with NUP210L
+FANCL has strict inhibition with ADNP
+FANCL has strict inhibition with SLA2
+FANCM has unclassified with FLG
+FANCM has strict inhibition with PIM1
+GATA2 has strict inhibition with DAXX
+HNF1A has facilitation with APC
+HNF1A has strict inhibition with BRAF
+HNF1A has strict inhibition with CDKN2A.p16INK4a
+HNF1A has strict inhibition with IDH1
+HNF1A has unclassified with JAK3
+HNF1A has facilitation with MAP2K4
+HNF1A has facilitation with PIK3CA
+HNF1A has unclassified with STAT5B
+KIT has strict dependence with STK11
+MET has strict inhibition with KLHL8
+MET has strict inhibition with NCOR1
+MET has strict inhibition with SF3B1
+MLH1 has strict inhibition with JAK3
+MSH6 has facilitation with APC
+MSH6 has strict inhibition with FLG
+MSH6 has strict inhibition with HPS3
+MSH6 has facilitation with PIK3CA
+MTAP has strict inhibition with TOP2A
+NF1 has strict inhibition with ALPK2
+PALB2 has strict inhibition with COL5A3
+PALB2 has strict inhibition with KMT2A
+PDGFRA has inhibition with ARID2
+PDGFRA has strict inhibition with TSHR
+POLD1 has strict inhibition with ACO1
+POLD1 has strict inhibition with ELF3
+POLD1 has strict inhibition with PIM1
+POLH has inhibition with ARID1A
+POLH has strict inhibition with CHD8
+POLH has strict inhibition with JAK3
+POLH has inhibition with KMT2C
+POLH has strict inhibition with NIPBL
+PTCH1 has unclassified with CHD8
+RECQL4 has strict inhibition with AJUBA
+RECQL4 has facilitation with APC
+RECQL4 has strict inhibition with ARID2
+RECQL4 has strict dependence with BPIFC
+RECQL4 has strict inhibition with BRAF
+RECQL4 has strict inhibition with CDKN2A.p14arf
+RECQL4 has strict inhibition with CDKN2A.p16INK4a
+RECQL4 has unclassified with DAXX
+RECQL4 has strict inhibition with EPHA2
+RECQL4 has strict inhibition with FAT1
+RECQL4 has unclassified with GABRG3
+RECQL4 has unclassified with GDI2
+RECQL4 has strict inhibition with GNA11
+RECQL4 has strict inhibition with HLA-B
+RECQL4 has strict dependence with HPS3
+RECQL4 has strict inhibition with HRAS
+RECQL4 has inhibition with IDH1
+RECQL4 has unclassified with JAK3
+RECQL4 has unclassified with KLHL7
+RECQL4 has strict inhibition with KMT2D
+RECQL4 has facilitation with MAP2K4
+RECQL4 has strict dependence with MTFR2
+RECQL4 has unclassified with NFU1
+RECQL4 has strict inhibition with NOTCH1
+RECQL4 has strict inhibition with NSD1
+RECQL4 has unclassified with PLSCR1
+RECQL4 has facilitation with PTEN
+RECQL4 has unclassified with RALGPS2
+RECQL4 has unclassified with RET
+RECQL4 has strict dependence with RUNX1
+RECQL4 has strict dependence with SENP6
+RECQL4 has strict dependence with SLA2
+RECQL4 has unclassified with SLC16A7
+RECQL4 has facilitation with SMAD4
+RECQL4 has strict inhibition with STK11
+RECQL4 has facilitation with TP53
+RECQL4 has unclassified with TSC2
+RHBDF2 has facilitation with APC
+SDHA has strict inhibition with FLG2
+SH2B3 has unclassified with UBR5
+SPRTN has facilitation with BRAF
+SPRTN has unclassified with KCNJ5
+SPRTN has strict dependence with PPP2R1A
+SPRTN has unclassified with ZFHX3
+TP53 has unclassified with SUFU
+WAS has inhibition with EGFR
+WAS has strict inhibition with IGLL5
