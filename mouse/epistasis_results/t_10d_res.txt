@@ -1,0 +1,34 @@
+Arid2 has inhibition with Notch1
+Atrx has strict inhibition with Pkhd1
+Brca2 has unclassified with Nf1
+Ep300 has unclassified with Nf1
+Nf1 has unclassified with Dicer1
+Nf1 has unclassified with Egfr
+Nf1 has unclassified with Fat1
+Nf1 has unclassified with Grm3
+Nf1 has inhibition with Notch1
+Notch2 has unclassified with Erbb2
+Notch2 has unclassified with Nf1
+Notch2 has unclassified with Notch4
+Notch2 has strict inhibition with Trrap
+Notch2 has strict inhibition with Zan
+Notch4 has strict inhibition with Atrx
+Pard3 has unclassified with Cul3
+Pard3 has unclassified with Nf1
+Prex2 has unclassified with Nf1
+Sall1 has unclassified with Nf1
+Setd2 has unclassified with Nf1
+Setd2 has inhibition with Notch1
+Setd2 has unclassified with Wnk1
+Spen has strict inhibition with Fbxw7
+Spen has unclassified with Nf1
+Spen has unclassified with Peg10
+Synm has unclassified with Nf1
+Tet2 has unclassified with Nf1
+Tnr has unclassified with Brca2
+Wnk1 has unclassified with Fat1
+Wnk1 has unclassified with Nf1
+Zfhx3 has unclassified with Erbb2
+Zfhx3 has unclassified with Nf1
+Zfhx3 has inhibition with Notch1
+Zfhx3 has unclassified with Wnk1

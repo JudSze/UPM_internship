@@ -1,0 +1,42 @@
+Adam10 has strict inhibition with Arid2
+Adam10 has unclassified with Fat1
+Adam10 has strict inhibition with Fat4
+Adam10 has strict inhibition with Hydin
+Adam10 has unclassified with Kit
+Adam10 has strict dependence with Trrap
+Ajuba has unclassified with Cdc16
+Ajuba has unclassified with Trrap
+Ajuba has strict inhibition with Wnk1
+Akt2 has unclassified with Dicer1
+Akt2 has strict inhibition with Mtor
+Akt2 has unclassified with Trrap
+Arid2 has unclassified with Cdh1
+Arid2 has inhibition with Notch1
+Arid2 has strict inhibition with Prex2
+Asxl1 has strict inhibition with Mtor
+Atm has unclassified with Ezh2
+Atm has unclassified with Fbxw7
+Atm has unclassified with Hydin
+Atrx has strict inhibition with Crebbp
+Atrx has strict inhibition with Dclk1
+Atrx has unclassified with Egfr
+Atrx has inhibition with Notch1
+Atrx has strict inhibition with Notch2
+Atrx has strict inhibition with Pkhd1
+Atrx has unclassified with Ryr2
+Atrx has strict inhibition with Synm
+Braf has strict inhibition with Fat1
+Braf has unclassified with Kdr
+Braf has unclassified with Nfkb1
+Braf has unclassified with Notch4
+Braf has unclassified with Pkhd1
+Braf has unclassified with Smo
+Braf has strict inhibition with Snx25
+Braf has unclassified with Trrap
+Braf has unclassified with Tsc1
+Brca2 has unclassified with Cdh1
+Card11 has unclassified with Cdh1
+Card11 has unclassified with Ep300
+Card11 has unclassified with Kdr
+Card11 has inhibition with Notch1
+Card11 has unclassified with Spen
