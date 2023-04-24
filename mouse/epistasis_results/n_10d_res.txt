@@ -1,0 +1,29 @@
+Arid2 has strict inhibition with Fat1
+Brca2 has unclassified with Mtor
+Brca2 has unclassified with Nf1
+Brca2 has unclassified with Notch2
+Brca2 has unclassified with Peg10
+Card11 has inhibition with Notch1
+Cyld has strict inhibition with Dclk1
+Egfr has unclassified with Ryr2
+Erbb4 has unclassified with Atrx
+Flg2 has unclassified with Mtor
+Flg2 has unclassified with Ryr2
+Kdr has unclassified with Spen
+Notch2 has unclassified with Cdc16
+Notch2 has unclassified with Hydin
+Notch2 has unclassified with Mtor
+Notch2 has unclassified with Peg10
+Notch2 has unclassified with Smarca4
+Nsd1 has unclassified with Ryr2
+Pard3 has unclassified with Pkhd1
+Pkhd1 has unclassified with Tnr
+Prex2 has unclassified with Atrx
+Prex2 has unclassified with Mtor
+Ptch1 has unclassified with Trrap
+Smarca4 has strict inhibition with Fat1
+Tet2 has strict dependence with Fat4
+Trrap has strict inhibition with Fat1
+Trrap has unclassified with Mtor
+Trrap has unclassified with Setd2
+Zan has strict inhibition with Ros1
