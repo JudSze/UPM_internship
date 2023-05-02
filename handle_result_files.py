@@ -1,3 +1,9 @@
+"""Set the path to the folder where the output files are present.
+   Only use one folder for one specific output. This script does not help 
+   if you saved the files of two different analysis in one folder.
+   In the target folder a txt file will be created. You will have to separate them
+   with enter."""
+
 import pandas as pd
 import os
 
